@@ -1,6 +1,3 @@
 #!/bin/bash
-echo "Best School"
-<<<<<<< HEAD
-echo "Hello"
-=======
->>>>>>> 5da6251ec0847a600f3ef65cd9901537f0526333
+echo "This School is so cool!"
+
